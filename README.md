@@ -23,5 +23,5 @@
 - KiCadデータは実際にPCBを発注したV0.2のデータからシルク印刷や配線の引き回しを若干修正しV0.3としています。
 
 ## LICENSE
-Copyright (C) 2023 Kazuhiro Ouchi
+Copyright (C) 2023 Kazuhiro Ouchi  
 CC BY-NC-SA 4.0
