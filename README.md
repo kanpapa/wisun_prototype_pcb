@@ -1,9 +1,8 @@
-# Wi-SUN MB-RL7023-11/DSS Prototyping board
+# Wi-SUN MB-RL7023-11/DSS Prototype board
 
 ## 説明
 - Wi-SUN MB-RL7023-11/DSSモジュールをUSBシリアルに接続するための基板です。
 - Wi-SUNモジュールとのシリアル通信に必要な最低限の信号線を引き出しています。
-
 
 ## 利用方法
 1. Wi-SUNに適合するコネクタを入手してはんだ付けを行ってください。
